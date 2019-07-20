@@ -3,7 +3,7 @@
 # theme/idea:
 
 there are total three types of object on screen
-   1 A spacecraft which is in your control------<<8>>\n
+   1 A spacecraft which is in your control------<<8>>
    2 Positive objects(harmless) for your spaceraft,can be considered as stars------'.'
    3 negative objects(harmfull) for your spacecraft,can be considered to be asteroids------'!'
  you gotta avoid the harmfull stuff,a max of 3 chances will be given to you 
